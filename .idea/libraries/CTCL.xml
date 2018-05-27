@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CTCL">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CTCL/out/artifacts/CTCL_jar/CTCL.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
